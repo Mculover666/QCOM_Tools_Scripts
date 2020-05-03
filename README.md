@@ -4,7 +4,9 @@
 
 目前有：
 
-- 移远M26 GSM通信模组：M26.ini
+- 移远 M26 GSM 通信模组：`M26.ini`
+- 移远 EC20 4G 通信模组：`EC20.ini`
+- 合宙 Air724UG 4G Cat.1 通信模组：`Air724UG.ini`
 
 
 # 2. QCOM工具运行说明
